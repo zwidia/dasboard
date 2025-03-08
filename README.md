@@ -1,12 +1,13 @@
 # Dashboard Streamlit  
-#Setup environment
+## Setup Environment  
+Jalankan perintah berikut untuk menginstal dependensi:  
+```sh
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-
-#Install dependensi:
-pip install -r requirements.txt
-
-#Jalankan aplikasi:
+```
+Run Streamlit App
+```sh
 streamlit run tugas.py
-
-#Link Dashboard
-https://dasboard-b8h6tvbs2pgnicyt5bhjns.streamlit.app
+```
+Run steamlit app
+```sh
+streamlit run tugas.py
